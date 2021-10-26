@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chixinning/CLionProjects/leetcode/main.cpp
+iostream
+-
+time.h
+/Users/chixinning/CLionProjects/leetcode/time.h
+math.h
+/Users/chixinning/CLionProjects/leetcode/math.h
+
